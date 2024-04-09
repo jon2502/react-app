@@ -1,5 +1,5 @@
 import ListGroup from "./components/ListGroup"
-import Alert from "./components/alert"
+import Alert from "./components/Alert"
 import Button from "./Button"
 import { useState } from "react"
 
